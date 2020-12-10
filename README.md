@@ -1,2 +1,1 @@
-# holbertonschool-interview
-coding interview exercises
+#0x00. Lockboxes
